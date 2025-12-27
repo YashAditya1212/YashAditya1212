@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am currently working on full stack projects and  CNN based machine learning projects.<br>i am a final year B.tech Undergraduate<br>i am currently learning AWS cloud services 
+Working on full stack projects and  CNN based machine learning projects.<br> Final year B.tech CSE Undergraduate<br>Currently learning AWS cloud services 
 
 
 ## 🌐 Socials:
